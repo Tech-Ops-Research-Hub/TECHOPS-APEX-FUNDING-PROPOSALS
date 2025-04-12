@@ -117,3 +117,5 @@ Each proposal in the [`/funding-proposals`](./funding-proposals) folder is caref
 We track the status of all submissions and are open to co-authoring, feedback, and collaboration on new ideas.
 
 ---
+
+Crafted with Love by the TechOps Apex Team.

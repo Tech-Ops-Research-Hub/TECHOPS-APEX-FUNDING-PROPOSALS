@@ -117,5 +117,3 @@ Each proposal in the [`/funding-proposals`](./funding-proposals) folder is caref
 We track the status of all submissions and are open to co-authoring, feedback, and collaboration on new ideas.
 
 ---
-
-Let me know if you'd like a Markdown badge section for visibility or a `fund-us.md` doc that expands even further.
